@@ -1,0 +1,7 @@
+/* Write your CSS here */
+/* src/components/EventItem/index.css */
+.event-location {
+  text-align: center;
+  font-size: 14px;
+  color: gray;
+}

@@ -1,0 +1,53 @@
+/* Write your CSS here */
+/* src/components/ActiveEventRegistrationDetails/index.css */
+.registration-status-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.registration-status-container img {
+  width: 200px;
+  height: auto;
+}
+
+/* src/components/EventItem/index.css */
+.event-item {
+  list-style-type: none;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.event-button {
+  border: none;
+  background: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.event-image {
+  width: 150px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.event-name {
+  text-align: center;
+}
+
+/* src/components/Events/index.css */
+.events-container {
+  padding: 20px;
+}
+
+.heading {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.events-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0;
+}
